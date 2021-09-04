@@ -1,0 +1,50 @@
+D:\College Work\BearingMachineSimulation\BearingMachineModels\bin\Debug\BearingMachineModels.dll
+D:\College Work\BearingMachineSimulation\BearingMachineModels\bin\Debug\BearingMachineModels.pdb
+D:\College Work\BearingMachineSimulation\BearingMachineModels\obj\Debug\BearingMachineModels.dll
+D:\College Work\BearingMachineSimulation\BearingMachineModels\obj\Debug\BearingMachineModels.pdb
+D:\College Work\BearingMachineSimulation\BearingMachineModels\obj\Debug\BearingMachineModels.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\Template\BearingMachineSimulation\BearingMachineModels\bin\Debug\BearingMachineModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\Template\BearingMachineSimulation\BearingMachineModels\bin\Debug\BearingMachineModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\Template\BearingMachineSimulation\BearingMachineModels\obj\Debug\BearingMachineModels.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\Template\BearingMachineSimulation\BearingMachineModels\obj\Debug\BearingMachineModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\Template\BearingMachineSimulation\BearingMachineModels\obj\Debug\BearingMachineModels.pdb
+C:\Users\Alaa\Downloads\Lab 9\Lab 9\template\bearingmachinesimulation\BearingMachineModels\bin\Debug\BearingMachineModels.dll
+C:\Users\Alaa\Downloads\Lab 9\Lab 9\template\bearingmachinesimulation\BearingMachineModels\bin\Debug\BearingMachineModels.pdb
+C:\Users\Alaa\Downloads\Lab 9\Lab 9\template\bearingmachinesimulation\BearingMachineModels\obj\Debug\BearingMachineModels.csprojResolveAssemblyReference.cache
+C:\Users\Alaa\Downloads\Lab 9\Lab 9\template\bearingmachinesimulation\BearingMachineModels\obj\Debug\BearingMachineModels.dll
+C:\Users\Alaa\Downloads\Lab 9\Lab 9\template\bearingmachinesimulation\BearingMachineModels\obj\Debug\BearingMachineModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\bearingmachinesimulation_TestVersion\BearingMachineModels\bin\Debug\BearingMachineModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\bearingmachinesimulation_TestVersion\BearingMachineModels\bin\Debug\BearingMachineModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\bearingmachinesimulation_TestVersion\BearingMachineModels\obj\Debug\BearingMachineModels.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\bearingmachinesimulation_TestVersion\BearingMachineModels\obj\Debug\BearingMachineModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\bearingmachinesimulation_TestVersion\BearingMachineModels\obj\Debug\BearingMachineModels.pdb
+C:\Users\Salma Khaled\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\[TAs]_Template\BearingMachineModels\bin\Debug\BearingMachineModels.dll
+C:\Users\Salma Khaled\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\[TAs]_Template\BearingMachineModels\bin\Debug\BearingMachineModels.pdb
+C:\Users\Salma Khaled\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\[TAs]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.csprojResolveAssemblyReference.cache
+C:\Users\Salma Khaled\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\[TAs]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.dll
+C:\Users\Salma Khaled\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\[TAs]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\[TAs]_Template\BearingMachineModels\bin\Debug\BearingMachineModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\[TAs]_Template\BearingMachineModels\bin\Debug\BearingMachineModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\[TAs]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\[TAs]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 9\[TAs]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.pdb
+C:\Users\Osama\Desktop\Lab 9\[TAs]_Template\BearingMachineModels\bin\Debug\BearingMachineModels.dll
+C:\Users\Osama\Desktop\Lab 9\[TAs]_Template\BearingMachineModels\bin\Debug\BearingMachineModels.pdb
+C:\Users\Osama\Desktop\Lab 9\[TAs]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Desktop\Lab 9\[TAs]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.dll
+C:\Users\Osama\Desktop\Lab 9\[TAs]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.pdb
+C:\Users\Osama\Desktop\Lab 9\[Students]_Template\BearingMachineModels\bin\Debug\BearingMachineModels.dll
+C:\Users\Osama\Desktop\Lab 9\[Students]_Template\BearingMachineModels\bin\Debug\BearingMachineModels.pdb
+C:\Users\Osama\Desktop\Lab 9\[Students]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.dll
+C:\Users\Osama\Desktop\Lab 9\[Students]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.pdb
+C:\Users\soa\Desktop\Task3 Template\Task3 Template\[Students]_Template\BearingMachineModels\bin\Debug\BearingMachineModels.dll
+C:\Users\soa\Desktop\Task3 Template\Task3 Template\[Students]_Template\BearingMachineModels\bin\Debug\BearingMachineModels.pdb
+C:\Users\soa\Desktop\Task3 Template\Task3 Template\[Students]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.csproj.CoreCompileInputs.cache
+C:\Users\soa\Desktop\Task3 Template\Task3 Template\[Students]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.dll
+C:\Users\soa\Desktop\Task3 Template\Task3 Template\[Students]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.pdb
+D:\CS\1st Term 2021\M&S 2021\labs\lab 7 _Task3\[Students]_Template\BearingMachineModels\bin\Debug\BearingMachineModels.dll
+D:\CS\1st Term 2021\M&S 2021\labs\lab 7 _Task3\[Students]_Template\BearingMachineModels\bin\Debug\BearingMachineModels.pdb
+D:\CS\1st Term 2021\M&S 2021\labs\lab 7 _Task3\[Students]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.csprojAssemblyReference.cache
+D:\CS\1st Term 2021\M&S 2021\labs\lab 7 _Task3\[Students]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.csproj.CoreCompileInputs.cache
+D:\CS\1st Term 2021\M&S 2021\labs\lab 7 _Task3\[Students]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.dll
+D:\CS\1st Term 2021\M&S 2021\labs\lab 7 _Task3\[Students]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.pdb
